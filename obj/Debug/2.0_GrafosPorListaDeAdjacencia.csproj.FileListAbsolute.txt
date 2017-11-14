@@ -1,0 +1,12 @@
+E:\Documentos\Grafos\teste\bin\Debug\teste.exe.config
+E:\Documentos\Grafos\teste\bin\Debug\teste.exe
+E:\Documentos\Grafos\teste\bin\Debug\teste.pdb
+E:\Documentos\Grafos\teste\obj\Debug\2.0_GrafosPorListaDeAdjacencia.csprojResolveAssemblyReference.cache
+E:\Documentos\Grafos\teste\obj\Debug\teste.exe
+E:\Documentos\Grafos\teste\obj\Debug\teste.pdb
+E:\Documentos\Grafos\2.0_GrafosPorListaDeAdjacencia\bin\Debug\teste.exe.config
+E:\Documentos\Grafos\2.0_GrafosPorListaDeAdjacencia\bin\Debug\teste.exe
+E:\Documentos\Grafos\2.0_GrafosPorListaDeAdjacencia\bin\Debug\teste.pdb
+E:\Documentos\Grafos\2.0_GrafosPorListaDeAdjacencia\obj\Debug\2.0_GrafosPorListaDeAdjacencia.csprojResolveAssemblyReference.cache
+E:\Documentos\Grafos\2.0_GrafosPorListaDeAdjacencia\obj\Debug\teste.exe
+E:\Documentos\Grafos\2.0_GrafosPorListaDeAdjacencia\obj\Debug\teste.pdb
